@@ -1,0 +1,97 @@
+
+h1{
+    color: dimgray;font-size: 30px;
+}
+.kasra{
+    background-color: aqua; 
+    color: burlywood;    
+}
+
+
+.box{
+    background: rgb(248, 248, 246);
+    color: blueviolet;
+    height: 37px;
+}
+.boxupr{
+    width: 597px;
+    height: 40px;
+    border-style: dotted;
+    background: rgb(248, 248, 246);
+    text-align: left;
+    display: inline-block;
+}
+.boxupl{
+    width: 241px;
+    height: 50px;
+    text-align: left;   
+    background:rgb(113, 131, 130);
+    display: inline-block;
+}
+.boxx{
+    height: 500px;
+    width: 1000px;
+}
+.boxr{
+    height: 600px !important;
+    width: 600px;
+    background: rgb(248, 248, 246);
+    display: inline-block;
+}
+.boxl{
+    display: inline-block;
+    background: darkgreen;
+    width:400;
+    position: absolute;
+
+}
+.boxll{
+    
+    background: rgb(248, 248, 246);
+    position: relative;
+    text-align: left;
+    text-indent: 1em;
+    height: 60px;
+    width: 243px;
+}
+.boxll:hover{
+    background-color: rgb(149, 212, 228);
+}
+
+input[type=text] {
+    width: 130px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+  }
+  
+  /* When the input field gets focus, change its width to 100% */
+  input[type=text]:focus {
+    width: 100%;
+  }
+
+  .boxdr{
+      background: rgb(59, 80, 150);
+      width: 600px;
+      height: 100px;
+  }
+
+  input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* Add a background color to the submit button on mouse-over */
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+
+    
+
+
+  
